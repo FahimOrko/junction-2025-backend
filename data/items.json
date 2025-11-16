@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Valio Milk 2L",
+    "status": "available",
+    "price": 2.99,
+    "quantity": 50
+  },
+  {
+    "name": "FreshFarm Milk 3L",
+    "status": "available",
+    "price": 3.49,
+    "quantity": 40
+  },
+  {
+    "name": "NordLac Milk 1L",
+    "status": "available",
+    "price": 1.79,
+    "quantity": 60
+  },
+  {
+    "name": "Valio Lactose-Free Milk 1L",
+    "status": "available",
+    "price": 2.29,
+    "quantity": 45
+  },
+  {
+    "name": "FreshFarm Skimmed Milk 2L",
+    "status": "out_of_stock",
+    "price": 2.49,
+    "quantity": 0
+  },
+  {
+    "name": "GoldenGrain Basmati Rice 5kg",
+    "status": "available",
+    "price": 12.99,
+    "quantity": 30
+  },
+  {
+    "name": "DailyRice Long Grain 5kg",
+    "status": "available",
+    "price": 10.99,
+    "quantity": 35
+  },
+  {
+    "name": "PremiumHarvest Jasmine Rice 5kg",
+    "status": "available",
+    "price": 14.49,
+    "quantity": 25
+  },
+  {
+    "name": "GoldenGrain Short Grain 2kg",
+    "status": "available",
+    "price": 6.49,
+    "quantity": 40
+  },
+  {
+    "name": "DailyRice Brown Rice 2kg",
+    "status": "out_of_stock",
+    "price": 5.99,
+    "quantity": 0
+  },
+  {
+    "name": "SunnyValley Orange Juice 1L",
+    "status": "available",
+    "price": 2.19,
+    "quantity": 55
+  },
+  {
+    "name": "NordFresh Orange Juice 1.5L",
+    "status": "available",
+    "price": 2.79,
+    "quantity": 40
+  },
+  {
+    "name": "FreshPress Apple Juice 1L",
+    "status": "available",
+    "price": 1.99,
+    "quantity": 50
+  },
+  {
+    "name": "SunnyValley Tropical Juice 1L",
+    "status": "available",
+    "price": 2.49,
+    "quantity": 45
+  },
+  {
+    "name": "NordFresh Grape Juice 1L",
+    "status": "out_of_stock",
+    "price": 2.89,
+    "quantity": 0
+  },
+  {
+    "name": "BakeHouse White Bread 500g",
+    "status": "available",
+    "price": 1.49,
+    "quantity": 70
+  },
+  {
+    "name": "GrainLoaf Whole Wheat Bread 600g",
+    "status": "available",
+    "price": 1.89,
+    "quantity": 60
+  },
+  {
+    "name": "NordBaker Multigrain Bread 500g",
+    "status": "available",
+    "price": 2.29,
+    "quantity": 55
+  },
+  {
+    "name": "BakeHouse Soft Sandwich Bread 700g",
+    "status": "available",
+    "price": 2.49,
+    "quantity": 40
+  },
+  {
+    "name": "GrainLoaf Rye Bread 500g",
+    "status": "out_of_stock",
+    "price": 2.19,
+    "quantity": 0
+  },
+  {
+    "name": "FreshEggs Farm Eggs 12pcs",
+    "status": "available",
+    "price": 3.49,
+    "quantity": 80
+  },
+  {
+    "name": "HappyHen Organic Eggs 10pcs",
+    "status": "available",
+    "price": 4.29,
+    "quantity": 60
+  },
+  {
+    "name": "DailyNest Brown Eggs 12pcs",
+    "status": "available",
+    "price": 3.79,
+    "quantity": 55
+  },
+  {
+    "name": "FreshEggs Free-Range Eggs 10pcs",
+    "status": "available",
+    "price": 4.69,
+    "quantity": 45
+  },
+  {
+    "name": "HappyHen Omega-3 Eggs 6pcs",
+    "status": "out_of_stock",
+    "price": 3.59,
+    "quantity": 0
+  },
+  {
+    "name": "GreenLeaf Lettuce 250g",
+    "status": "available",
+    "price": 1.59,
+    "quantity": 50
+  },
+  {
+    "name": "FreshField Spinach 300g",
+    "status": "available",
+    "price": 1.99,
+    "quantity": 45
+  },
+  {
+    "name": "NordHarvest Kale 200g",
+    "status": "available",
+    "price": 2.29,
+    "quantity": 40
+  },
+  {
+    "name": "FarmFresh Mixed Greens 300g",
+    "status": "available",
+    "price": 2.49,
+    "quantity": 35
+  },
+  {
+    "name": "GreenLeaf Iceberg Lettuce 500g",
+    "status": "out_of_stock",
+    "price": 2.19,
+    "quantity": 0
+  },
+  {
+    "name": "RedHarvest Tomatoes 1kg",
+    "status": "available",
+    "price": 3.29,
+    "quantity": 65
+  },
+  {
+    "name": "FreshField Cherry Tomatoes 500g",
+    "status": "available",
+    "price": 2.79,
+    "quantity": 55
+  },
+  {
+    "name": "NordHarvest Onions 2kg",
+    "status": "available",
+    "price": 2.69,
+    "quantity": 70
+  },
+  {
+    "name": "GoldenFarm Carrots 1kg",
+    "status": "available",
+    "price": 1.49,
+    "quantity": 80
+  },
+  {
+    "name": "RedHarvest Bell Peppers 3pcs",
+    "status": "out_of_stock",
+    "price": 2.99,
+    "quantity": 0
+  },
+  {
+    "name": "Brekkie Corn Flakes 500g",
+    "status": "available",
+    "price": 3.49,
+    "quantity": 40
+  },
+  {
+    "name": "MorningBowl Oats 1kg",
+    "status": "available",
+    "price": 2.99,
+    "quantity": 50
+  },
+  {
+    "name": "CrunchyBite Chocolate Cereal 400g",
+    "status": "available",
+    "price": 4.49,
+    "quantity": 35
+  },
+  {
+    "name": "Brekkie Honey Rings 450g",
+    "status": "available",
+    "price": 3.99,
+    "quantity": 30
+  },
+  {
+    "name": "MorningBowl Multigrain Flakes 500g",
+    "status": "out_of_stock",
+    "price": 3.69,
+    "quantity": 0
+  },
+  {
+    "name": "FreshMeat Chicken Breast 1kg",
+    "status": "available",
+    "price": 6.99,
+    "quantity": 25
+  },
+  {
+    "name": "NordMeat Chicken Thighs 1kg",
+    "status": "available",
+    "price": 5.49,
+    "quantity": 30
+  },
+  {
+    "name": "FarmChoice Minced Beef 500g",
+    "status": "available",
+    "price": 4.99,
+    "quantity": 40
+  },
+  {
+    "name": "FarmChoice Beef Stew Cubes 1kg",
+    "status": "available",
+    "price": 9.99,
+    "quantity": 20
+  },
+  {
+    "name": "NordMeat Pork Chops 1kg",
+    "status": "out_of_stock",
+    "price": 7.49,
+    "quantity": 0
+  },
+  {
+    "name": "OceanCatch Salmon Fillet 500g",
+    "status": "available",
+    "price": 8.99,
+    "quantity": 25
+  },
+  {
+    "name": "OceanCatch Tilapia Fillet 1kg",
+    "status": "available",
+    "price": 7.49,
+    "quantity": 30
+  },
+  {
+    "name": "SeaFresh Shrimp 500g",
+    "status": "available",
+    "price": 6.99,
+    "quantity": 35
+  },
+  {
+    "name": "SeaFresh Tuna Steak 500g",
+    "status": "available",
+    "price": 9.49,
+    "quantity": 20
+  },
+  {
+    "name": "OceanCatch Cod Fillet 1kg",
+    "status": "out_of_stock",
+    "price": 11.29,
+    "quantity": 0
+  },
+  {
+    "name": "Bella Pasta Penne 1kg",
+    "status": "available",
+    "price": 2.99,
+    "quantity": 60
+  },
+  {
+    "name": "GoldenPasta Spaghetti 1kg",
+    "status": "available",
+    "price": 2.79,
+    "quantity": 65
+  },
+  {
+    "name": "ItaliaBest Fusilli 1kg",
+    "status": "available",
+    "price": 3.29,
+    "quantity": 55
+  },
+  {
+    "name": "Bella Pasta Macaroni 1kg",
+    "status": "available",
+    "price": 2.89,
+    "quantity": 50
+  },
+  {
+    "name": "GoldenPasta Tagliatelle 500g",
+    "status": "out_of_stock",
+    "price": 2.79,
+    "quantity": 0
+  },
+  {
+    "name": "FreshDairy Cheddar Cheese 500g",
+    "status": "available",
+    "price": 4.99,
+    "quantity": 40
+  },
+  {
+    "name": "NordCheese Mozzarella 400g",
+    "status": "available",
+    "price": 5.49,
+    "quantity": 35
+  },
+  {
+    "name": "DailyDairy Gouda 300g",
+    "status": "available",
+    "price": 4.79,
+    "quantity": 45
+  },
+  {
+    "name": "FreshDairy Parmesan 200g",
+    "status": "available",
+    "price": 6.99,
+    "quantity": 25
+  },
+  {
+    "name": "NordCheese Cream Cheese 250g",
+    "status": "out_of_stock",
+    "price": 3.99,
+    "quantity": 0
+  },
+  {
+    "name": "FreshBake Butter 250g",
+    "status": "available",
+    "price": 2.99,
+    "quantity": 50
+  },
+  {
+    "name": "GoldenDairy Salted Butter 250g",
+    "status": "available",
+    "price": 3.29,
+    "quantity": 45
+  },
+  {
+    "name": "NordCream Whipping Cream 500ml",
+    "status": "available",
+    "price": 3.49,
+    "quantity": 40
+  },
+  {
+    "name": "GoldenDairy Cooking Cream 300ml",
+    "status": "available",
+    "price": 2.79,
+    "quantity": 35
+  },
+  {
+    "name": "FreshBake Unsalted Butter 250g",
+    "status": "out_of_stock",
+    "price": 2.89,
+    "quantity": 0
+  },
+  {
+    "name": "SunnySnack Potato Chips 150g",
+    "status": "available",
+    "price": 1.99,
+    "quantity": 70
+  },
+  {
+    "name": "CrunchBite Salted Chips 200g",
+    "status": "available",
+    "price": 2.29,
+    "quantity": 60
+  },
+  {
+    "name": "FlavorMax Spicy Chips 150g",
+    "status": "available",
+    "price": 2.49,
+    "quantity": 50
+  },
+  {
+    "name": "SunnySnack Cheese Balls 120g",
+    "status": "available",
+    "price": 1.89,
+    "quantity": 55
+  },
+  {
+    "name": "CrunchBite BBQ Chips 200g",
+    "status": "out_of_stock",
+    "price": 2.39,
+    "quantity": 0
+  },
+  {
+    "name": "FreshFruit Bananas 1kg",
+    "status": "available",
+    "price": 1.69,
+    "quantity": 80
+  },
+  {
+    "name": "SunnyOrchard Apples 1kg",
+    "status": "available",
+    "price": 2.49,
+    "quantity": 70
+  },
+  {
+    "name": "GreenValley Grapes 500g",
+    "status": "available",
+    "price": 3.59,
+    "quantity": 55
+  },
+  {
+    "name": "FreshFruit Pears 1kg",
+    "status": "available",
+    "price": 2.99,
+    "quantity": 60
+  },
+  {
+    "name": "SunnyOrchard Mango 1pc",
+    "status": "out_of_stock",
+    "price": 3.49,
+    "quantity": 0
+  },
+  {
+    "name": "PureDrink Mineral Water 1.5L",
+    "status": "available",
+    "price": 0.89,
+    "quantity": 120
+  },
+  {
+    "name": "FreshSpring Mineral Water 2L",
+    "status": "available",
+    "price": 1.19,
+    "quantity": 100
+  },
+  {
+    "name": "CoolWave Sparkling Water 1L",
+    "status": "available",
+    "price": 1.49,
+    "quantity": 80
+  },
+  {
+    "name": "PureDrink Small Water 500ml",
+    "status": "available",
+    "price": 0.59,
+    "quantity": 150
+  },
+  {
+    "name": "CoolWave Sparkling Lime 1L",
+    "status": "out_of_stock",
+    "price": 1.69,
+    "quantity": 0
+  },
+  {
+    "name": "HomeClean Dish Soap 500ml",
+    "status": "available",
+    "price": 2.49,
+    "quantity": 60
+  },
+  {
+    "name": "ShinePro Glass Cleaner 750ml",
+    "status": "available",
+    "price": 3.29,
+    "quantity": 40
+  },
+  {
+    "name": "FreshHome Floor Cleaner 1L",
+    "status": "available",
+    "price": 3.99,
+    "quantity": 50
+  },
+  {
+    "name": "UltraWash Detergent 2kg",
+    "status": "available",
+    "price": 6.49,
+    "quantity": 35
+  },
+  {
+    "name": "HomeClean Laundry Liquid 1L",
+    "status": "out_of_stock",
+    "price": 4.99,
+    "quantity": 0
+  },
+  {
+    "name": "PetCare Dog Food 2kg",
+    "status": "available",
+    "price": 7.99,
+    "quantity": 40
+  },
+  {
+    "name": "CatDelight Cat Food 1.5kg",
+    "status": "available",
+    "price": 6.49,
+    "quantity": 45
+  },
+  {
+    "name": "Nutripet Treats Chicken 200g",
+    "status": "available",
+    "price": 3.49,
+    "quantity": 50
+  },
+  {
+    "name": "PetCare Puppy Food 2kg",
+    "status": "available",
+    "price": 8.49,
+    "quantity": 30
+  },
+  {
+    "name": "CatDelight Fish Treats 150g",
+    "status": "out_of_stock",
+    "price": 3.29,
+    "quantity": 0
+  },
+  {
+    "name": "DailyTooth Toothpaste 150g",
+    "status": "available",
+    "price": 1.99,
+    "quantity": 70
+  },
+  {
+    "name": "SoftBristle Toothbrush Pack",
+    "status": "available",
+    "price": 2.49,
+    "quantity": 65
+  },
+  {
+    "name": "FreshScent Shampoo 500ml",
+    "status": "available",
+    "price": 3.79,
+    "quantity": 50
+  },
+  {
+    "name": "FreshScent Conditioner 500ml",
+    "status": "available",
+    "price": 3.79,
+    "quantity": 50
+  },
+  {
+    "name": "DailyCare Hand Soap 300ml",
+    "status": "available",
+    "price": 1.49,
+    "quantity": 80
+  },
+  {
+    "name": "FreshGlow Body Wash 750ml",
+    "status": "available",
+    "price": 4.29,
+    "quantity": 40
+  },
+  {
+    "name": "DailyCare Deodorant 150ml",
+    "status": "available",
+    "price": 2.99,
+    "quantity": 45
+  },
+  {
+    "name": "FreshScent Hair Oil 200ml",
+    "status": "available",
+    "price": 3.49,
+    "quantity": 35
+  },
+  {
+    "name": "SoftSkin Lotion 500ml",
+    "status": "available",
+    "price": 4.99,
+    "quantity": 30
+  },
+  {
+    "name": "DailyCare Sanitizer 250ml",
+    "status": "available",
+    "price": 2.49,
+    "quantity": 60
+  }
+]

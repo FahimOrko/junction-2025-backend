@@ -1,10 +1,12 @@
-// import express from "express";
-// import planetsRouter from "./planets/planets.router.js";
-// import launchsRouter from "./launches/launches.router.js";
+import express from "express";
+import itemsRouter from "./items/items.router.js";
+import customersRouter from "./customers/customers.router.js";
+import ordersRouter from "./orders/orders.router.js";
 
-// const api = express.Router();
+const api = express.Router();
 
-// api.use("/planets", planetsRouter);
-// api.use("/launches", launchsRouter);
+api.use("/items", itemsRouter);
+api.use("/customers", customersRouter);
+api.use("/orders", ordersRouter);
 
-// export default api;
+export default api;
