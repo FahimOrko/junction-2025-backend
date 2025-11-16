@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Alice Johnson",
+    "address": "123 Maple Street",
+    "postalCode": "67100",
+    "usualOrderedItems": [
+      "Valio Milk 2L",
+      "FreshFarm Milk 3L",
+      "NordLac Milk 1L"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Bob Smith",
+    "address": "45 Oak Avenue",
+    "postalCode": "67101",
+    "usualOrderedItems": [
+      "GoldenGrain Basmati Rice 5kg",
+      "DailyRice Long Grain 5kg",
+      "PremiumHarvest Jasmine Rice 5kg"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Catherine Lee",
+    "address": "78 Pine Road",
+    "postalCode": "67102",
+    "usualOrderedItems": [
+      "SunnyValley Orange Juice 1L",
+      "NordFresh Orange Juice 1.5L",
+      "FreshPress Apple Juice 1L"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "David Wilson",
+    "address": "22 Birch Lane",
+    "postalCode": "67103",
+    "usualOrderedItems": [
+      "BakeHouse White Bread 500g",
+      "GrainLoaf Whole Wheat Bread 600g",
+      "NordBaker Multigrain Bread 500g"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Emma Davis",
+    "address": "56 Cedar Street",
+    "postalCode": "67104",
+    "usualOrderedItems": [
+      "FreshEggs Farm Eggs 12pcs",
+      "HappyHen Organic Eggs 10pcs",
+      "DailyNest Brown Eggs 12pcs"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Frank Miller",
+    "address": "11 Spruce Boulevard",
+    "postalCode": "67105",
+    "usualOrderedItems": [
+      "GreenLeaf Lettuce 250g",
+      "FreshField Spinach 300g",
+      "NordHarvest Kale 200g"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Grace Thomas",
+    "address": "90 Willow Drive",
+    "postalCode": "67106",
+    "usualOrderedItems": [
+      "RedHarvest Tomatoes 1kg",
+      "FreshField Cherry Tomatoes 500g",
+      "NordHarvest Onions 2kg"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Henry Martinez",
+    "address": "34 Aspen Court",
+    "postalCode": "67107",
+    "usualOrderedItems": [
+      "Brekkie Corn Flakes 500g",
+      "MorningBowl Oats 1kg",
+      "CrunchyBite Chocolate Cereal 400g"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Isabella Garcia",
+    "address": "7 Chestnut Avenue",
+    "postalCode": "67108",
+    "usualOrderedItems": [
+      "FreshMeat Chicken Breast 1kg",
+      "NordMeat Chicken Thighs 1kg",
+      "FarmChoice Minced Beef 500g"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Jack Robinson",
+    "address": "65 Elm Street",
+    "postalCode": "67109",
+    "usualOrderedItems": [
+      "OceanCatch Salmon Fillet 500g",
+      "OceanCatch Tilapia Fillet 1kg",
+      "SeaFresh Shrimp 500g"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Karen Walker",
+    "address": "12 Poplar Lane",
+    "postalCode": "67110",
+    "usualOrderedItems": [
+      "Bella Pasta Penne 1kg",
+      "GoldenPasta Spaghetti 1kg",
+      "ItaliaBest Fusilli 1kg"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Leo Hall",
+    "address": "88 Fir Street",
+    "postalCode": "67111",
+    "usualOrderedItems": [
+      "FreshDairy Cheddar Cheese 500g",
+      "NordCheese Mozzarella 400g",
+      "DailyDairy Gouda 300g"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Mia Allen",
+    "address": "14 Maplewood Drive",
+    "postalCode": "67112",
+    "usualOrderedItems": [
+      "FreshBake Butter 250g",
+      "GoldenDairy Salted Butter 250g",
+      "NordCream Whipping Cream 500ml"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Nathan Young",
+    "address": "32 Redwood Road",
+    "postalCode": "67113",
+    "usualOrderedItems": [
+      "SunnySnack Potato Chips 150g",
+      "CrunchBite Salted Chips 200g",
+      "FlavorMax Spicy Chips 150g"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Olivia King",
+    "address": "50 Pinecrest Avenue",
+    "postalCode": "67114",
+    "usualOrderedItems": [
+      "FreshFruit Bananas 1kg",
+      "SunnyOrchard Apples 1kg",
+      "GreenValley Grapes 500g"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Peter Scott",
+    "address": "23 Hickory Street",
+    "postalCode": "67115",
+    "usualOrderedItems": [
+      "PureDrink Mineral Water 1.5L",
+      "FreshSpring Mineral Water 2L",
+      "CoolWave Sparkling Water 1L"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Quinn Adams",
+    "address": "77 Sycamore Lane",
+    "postalCode": "67116",
+    "usualOrderedItems": [
+      "HomeClean Dish Soap 500ml",
+      "ShinePro Glass Cleaner 750ml",
+      "FreshHome Floor Cleaner 1L"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Rachel Evans",
+    "address": "19 Birchwood Road",
+    "postalCode": "67117",
+    "usualOrderedItems": [
+      "UltraWash Detergent 2kg",
+      "HomeClean Laundry Liquid 1L",
+      "PetCare Dog Food 2kg"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Samuel Baker",
+    "address": "41 Cedar Avenue",
+    "postalCode": "67118",
+    "usualOrderedItems": [
+      "CatDelight Cat Food 1.5kg",
+      "Nutripet Treats Chicken 200g",
+      "PetCare Puppy Food 2kg"
+    ],
+    "location": "Kokkola, Finland"
+  },
+  {
+    "name": "Tina Cooper",
+    "address": "58 Willow Street",
+    "postalCode": "67119",
+    "usualOrderedItems": [
+      "DailyTooth Toothpaste 150g",
+      "SoftBristle Toothbrush Pack",
+      "FreshScent Shampoo 500ml"
+    ],
+    "location": "Kokkola, Finland"
+  }
+]

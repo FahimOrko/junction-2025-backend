@@ -1,5 +1,6 @@
 import express from "express";
 import cors from "cors";
+import api from "./routes/api.js";
 
 const app = express();
 
@@ -11,7 +12,7 @@ app.use(express.json());
 // we can also set the version here, and inside api were importing the routes
 // so instaed api we can go like - /api/v1
 
-// app.use("/api/v1", api);
+app.use("/api/v1", api);
 
 app.get("/", (req, res) => {
   res.send("hello world");

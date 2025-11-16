@@ -2,6 +2,7 @@ import dotenv from "dotenv";
 import app from "./app.js";
 import http from "http";
 import connectDB from "./services/mongo.js";
+import Item from "./models/item.mongo.js";
 
 // dotenv
 dotenv.config();
@@ -15,7 +16,10 @@ const server = http.createServer(app);
 const startServer = async () => {
   try {
     // Connect to database
-    // await connectDB();
+    await connectDB();
+
+    // const items = await Item.find();
+    // console.log(items);
 
     // Start your server or app logic here
     server.listen(PORT, () => {
