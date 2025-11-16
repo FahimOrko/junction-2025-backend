@@ -16,8 +16,8 @@ const issueSchema = new mongoose.Schema({
   },
   customerAction: {
     type: String,
-    enum: ["replace", "remove"],
-    required: true,
+    enum: ["replace", "remove", "none"],
+    default: "none",
   },
   replacementItemId: {
     type: mongoose.Schema.Types.ObjectId,
